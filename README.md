@@ -28,7 +28,7 @@ b=int(input())
 print("Square root of the number:",newton_method(b))
 ```
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](sqrt.png)
 
 
 ## Result:
